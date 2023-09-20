@@ -1,0 +1,2 @@
+.mp4 filter=lfs diff=lfs merge=lfs -text
+cat[[:space:]]dancing.mp4 filter=lfs diff=lfs merge=lfs -text
